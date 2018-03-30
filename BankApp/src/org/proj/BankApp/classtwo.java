@@ -1,6 +1,5 @@
 package org.proj.BankApp;
 
-public class newclass {
-	
+public class classtwo {
 
 }
