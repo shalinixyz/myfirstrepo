@@ -1,6 +1,11 @@
 package org.proj.BankApp;
 
 public class newclass {
-	
+	public newclass() {
+		
+		System.out.println("new class contructor");
+		System.out.println("hi");
+		// TODO Auto-generated constructor stub
+	}
 
 }
